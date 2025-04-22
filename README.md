@@ -19,16 +19,17 @@ Here's a step-by-step preview of how the game works:
   Step 1: Starting the Game
     Turtle is at the bottom. Press the Up arrow to move.
        <img width="350" alt="Screenshot 2025-04-21 at 9 42 56 PM" src="https://github.com/user-attachments/assets/20a4dc7c-f5e5-488e-9536-3d8e8b6e3267" />
-    
+
   Step 2: Cars Moving Sideways
     Cars of random colors start appearing and moving from right to left.
     
   Step 3: Level Up!
     If the turtle reaches the top, it resets to the bottom and the cars move faster.
+    <img width="350" alt="Screenshot 2025-04-21 at 9 48 04 PM" src="https://github.com/user-attachments/assets/2b4128d9-7aad-4cb3-b385-5121ce671f00" />
     
   Step 4: Game Over
     If the turtle touches a car... GAME OVER!
-        <img width="350" alt="Screenshot 2025-04-21 at 9 46 04 PM" src="https://github.com/user-attachments/assets/8a225bd0-1aa0-4288-88a1-e3a8ecda8cc3" />
+   
 
 🧠 Built With
   Python turtle module
