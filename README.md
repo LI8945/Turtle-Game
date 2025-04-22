@@ -18,7 +18,7 @@ Your mission: help the turtle cross the road while dodging speeding cars. Each l
 Here's a step-by-step preview of how the game works:
   Step 1: Starting the Game
     Turtle is at the bottom. Press the Up arrow to move.
-    <img width="584" alt="Screenshot 2025-04-21 at 9 42 56 PM" src="https://github.com/user-attachments/assets/20a4dc7c-f5e5-488e-9536-3d8e8b6e3267" />
+    <img width="350" alt="Screenshot 2025-04-21 at 9 42 56 PM" src="https://github.com/user-attachments/assets/20a4dc7c-f5e5-488e-9536-3d8e8b6e3267" />
 
   Step 2: Cars Moving Sideways
     Cars of random colors start appearing and moving from right to left.
@@ -29,8 +29,8 @@ Here's a step-by-step preview of how the game works:
     
   Step 4: Game Over
     If the turtle touches a car... GAME OVER!
-    <img width="400px" src="https://github.com/user-attachments/assets/94ad4215-93ab-489c-a8a5-2991bbc254fe" />
-  
+   <img width="350" alt="Screenshot 2025-04-21 at 9 46 04 PM" src="https://github.com/user-attachments/assets/8a225bd0-1aa0-4288-88a1-e3a8ecda8cc3" />
+
 
 🧠 Built With
   Python turtle module
