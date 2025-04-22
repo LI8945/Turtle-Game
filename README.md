@@ -22,6 +22,9 @@ Here's a step-by-step preview of how the game works:
 
   Step 2: Cars Moving Sideways
     Cars of random colors start appearing and moving from right to left.
+     <img width="500px" src ="https://github.com/user-attachments/assets/d179c95a-2625-40a9-9ff5-de6261922aeb+/>
+
+
 
   Step 3: Level Up!
     If the turtle reaches the top, it resets to the bottom and the cars move faster.
